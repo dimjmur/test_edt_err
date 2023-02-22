@@ -128,4 +128,11 @@
 			<value>false</value>
 		</right>
 	</object>
+	<object>
+		<name>Document.Документ</name>
+		<right>
+			<name>InteractiveDelete</name>
+			<value>false</value>
+		</right>
+	</object>
 </Rights>

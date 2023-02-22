@@ -42,4 +42,5 @@
   <roles>Role.ДобавлениеИзменениеБанков</roles>
   <roles>Role.ПолныеПрава</roles>
   <catalogs>Catalog.Банки</catalogs>
+  <documents>Document.Документ</documents>
 </mdclass:Configuration>
